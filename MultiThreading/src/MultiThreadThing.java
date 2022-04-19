@@ -1,4 +1,4 @@
-
+//This is the class which does multi threading by extending the thread class
 public class MultiThreadThing extends Thread {
 	private int threadNumber;
 	public MultiThreadThing(int threadNumber)
